@@ -29,7 +29,7 @@ class Employee:
     def get_title(self):
         return self.__Job_Title
 
-from Week10_program4 import Employee
+from Employee import Employee
 
 def main():
 
