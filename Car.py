@@ -29,7 +29,7 @@ class car:
     def get_speed(self, speed):
         return self.__speed
 
-from Week10_program2 import car
+from Car import car
 
 def main():
     make = input("Enter the make of car: ")
